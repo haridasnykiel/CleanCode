@@ -1,0 +1,11 @@
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/bin/Debug/netcoreapp2.2/MeaningfulNames.deps.json
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/bin/Debug/netcoreapp2.2/MeaningfulNames.runtimeconfig.json
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/bin/Debug/netcoreapp2.2/MeaningfulNames.runtimeconfig.dev.json
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/bin/Debug/netcoreapp2.2/MeaningfulNames.dll
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/bin/Debug/netcoreapp2.2/MeaningfulNames.pdb
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.csprojAssemblyReference.cache
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.csproj.CoreCompileInputs.cache
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.AssemblyInfoInputs.cache
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.AssemblyInfo.cs
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.dll
+/Users/Hari/my-workstation/dev/dotnet/CleanCode/MeaningfulNames/obj/Debug/netcoreapp2.2/MeaningfulNames.pdb
