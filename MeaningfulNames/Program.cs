@@ -3,6 +3,7 @@
 namespace MeaningfulNames {
     class Program {
         static void Main (string[] args) {
+            
             Console.WriteLine ("Display Owner");
 
             Console.WriteLine ("enter owner");
@@ -14,9 +15,9 @@ namespace MeaningfulNames {
             Console.WriteLine ("enter item count");
             var itemCount = Convert.ToInt32(Console.ReadLine ());
 
-            var naming = new BadNames();
+            var naming = new GoodNames(owner, itemCount, item);
 
-            naming.displayOwnerAndItemDetails(owner, itemCount, item);
+            Console.WriteLine(naming.Message());
 
         }
     }
